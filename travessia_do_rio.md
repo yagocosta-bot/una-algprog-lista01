@@ -5,12 +5,21 @@ Um fazendeiro precisa levar um lobo, uma cabra e um maço de couve para o outro 
 - Se a cabra ficar sozinha com a couve, ela a come.
 
 A[Início] --> B[Todos na margem esquerda]
+
 B --> C[Levar Cabra para direita]
+
 C --> D[Voltar sozinho]
+
 D --> E[Levar Lobo para direita]
+
 E --> F[Trazer Cabra de volta]
+
 F --> G[Levar Couve para direita]
+
 G --> H[Voltar sozinho]
+
 H --> I[Levar Cabra para direita]
+
 I --> J[Todos na margem direita]
+
 J --> K[Fim]
